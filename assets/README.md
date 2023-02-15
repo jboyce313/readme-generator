@@ -1,7 +1,7 @@
-# g
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# README-generator
+  
   ## Description
-  g
+  This application uses command line prompts to get user input describing the sections of a README and generates a professional README file. This README was generated using this application.
   ## Table of Contents
   
 [Installation](#installation)
@@ -16,17 +16,16 @@
   
 [Questions](#questions)
   ## Installation
-  g
+  Clone the git repository and run npm install in the project directory.
   ## Usage
-  g
+  Navigate to project directory via command line and run via node.JS.
   ## Contributing
-  g
+  To contribute, reach out to me via contact info in the Questions section.
   ## Tests
-  g
-  ## License
-  Licensed under the [Boost Software License 1.0](https://choosealicense.com/licenses/bsl-1.0/)
+  None.
+  
   ## Questions
-  GitHub: [g](https://github.com/g)
+  GitHub: [jboyce313](https://github.com/jboyce313)
 
-  For questions, email me at [g](mailto:g)
+  For questions, email me at [jboyce313@gmail.com](mailto:jboyce313@gmail.com)
   
