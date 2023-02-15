@@ -1,7 +1,7 @@
-# README-generator
-  
+# Sample README
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This application uses command line prompts to get user input describing the sections of a README and generates a professional README file. This README was generated using this application.
+  This is where you describe your project.
   ## Table of Contents
   
 [Installation](#installation)
@@ -16,14 +16,15 @@
   
 [Questions](#questions)
   ## Installation
-  Clone the git repository and run npm install in the project directory.
+  This how to install your project.
   ## Usage
-  Navigate to project directory via command line and run via node.JS.
+  This is how to use the project.
   ## Contributing
-  To contribute, reach out to me via contact info in the Questions section.
+  This is how to contribute to the project.
   ## Tests
-  None.
-  
+  This is how to test the project.
+  ## License
+  Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
   ## Questions
   GitHub: [jboyce313](https://github.com/jboyce313)
 

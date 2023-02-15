@@ -26,6 +26,8 @@ Clone the git repository and run npm install in the project directory.
 
 Navigate to project directory via command line and run via node.JS.
 
+[Video demonstration of application](https://drive.google.com/file/d/1IMSiuxUoLvibDm9C3e9ukMLs4KB98FQr/view)
+
 ## Contributing
 
 To contribute, reach out to me via contact info in the Questions section.
