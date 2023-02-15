@@ -1,6 +1,7 @@
-# t
+# g
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   ## Description
-  t
+  g
   ## Table of Contents
   
 [Installation](#installation)
@@ -15,17 +16,17 @@
   
 [Questions](#questions)
   ## Installation
-  t
+  g
   ## Usage
-  t
+  g
   ## Contributing
-  t
+  g
   ## Tests
-  t
+  g
   ## License
-  choice 1
+  Licensed under the [Boost Software License 1.0](https://choosealicense.com/licenses/bsl-1.0/)
   ## Questions
-  GitHub: [t](https://github.com/t)
+  GitHub: [g](https://github.com/g)
 
-  For questions, email me at [t](mailto:t)
+  For questions, email me at [g](mailto:g)
   

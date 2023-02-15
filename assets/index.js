@@ -36,7 +36,15 @@ const questions = [
   {
     type: "list",
     message: "Choose a license for your project",
-    choices: ["choice 1", "choice 2", "choice 3"],
+    choices: [
+      "None",
+      "Apache License 2.0",
+      "GNU General Public License v3.0",
+      "MIT License",
+      "Boost Software License 1.0",
+      "Mozilla Public License 2.0",
+      "The Unlicense",
+    ],
     name: "license",
   },
   {
@@ -49,8 +57,6 @@ const questions = [
     message: "Enter your email address:",
     name: "email",
   },
-  // ask for gihub
-  // ask for email
 ];
 
 function writeToFile(fileName, data) {
